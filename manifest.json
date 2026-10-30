@@ -1,0 +1,19 @@
+{
+  "format": "hirespeak-content-1",
+  "generatedAt": "2026-10-30T12:16:03.510Z",
+  "packs": [
+    {
+      "id": "zh-core",
+      "lang": "zh",
+      "version": "2026.10.30",
+      "minAppVersion": "1.31.0",
+      "title": "中文题库增补 · 第 1 期",
+      "summary": "新增 12 道中文面试题和 6 条话术：30 秒成果、预期落差、接手烂摊子、商机判断、做不到的需求、群面角色、入职前三个月等。",
+      "file": "packs/zh-core.json",
+      "sha256": "d8e5507a03e0efddf0e04e1cdbd75300d1ae37e40035371b3f3d71b2eb78a347",
+      "bytes": 32966,
+      "questions": 12,
+      "phrases": 6
+    }
+  ]
+}
